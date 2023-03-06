@@ -1,7 +1,8 @@
-import openai
 import requests
 import json
-
+import openai
+import datetime
+import re
 # 输入问题
 question = input("请输入语法问题：")
 
@@ -22,6 +23,11 @@ d = json.loads(s) # 把字符串转换成字典
 # 使用response.text
 
 text = d['choices'][0]['message']['content']
+with open("grammar.txt", "a", encoding="utf-8") as f:
+      now = datetime.datetime.now()
+      date = now.strftime("%Y-%m-%d")
+      time = now.strftime("%H:%M:%S")
+      f.write('\n' + '\n' + f"当前的日期是{date}，当前的时间是{time}\n"+text)
 print(text)
 
 

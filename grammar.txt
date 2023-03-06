@@ -1,0 +1,17 @@
+
+
+当前的日期是2023-03-06，当前的时间是12:26:01
+Yes, there is an object complement in this sentence. The direct object is "favor" and the object complement is "done". "Done" renames or describes the direct object "favor". Therefore, "Peter" is the indirect object of the sentence. 
+
+The sentence can be diagrammed as follows:
+[You] [have] [done] (object complement) [Peter] [a favor].
+
+当前的日期是2023-03-06，当前的时间是12:29:40
+The sentence that expresses an offer is typically structured as follows: 
+
+Subject + will/would + verb in the base form + object.
+
+For example:
+"I will help you with your homework."
+"Would you like me to buy you a coffee?"
+"Can I offer you a hand with those bags?"
