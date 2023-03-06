@@ -1,0 +1,100 @@
+
+
+当前的日期是2023-03-05，当前的时间是19:31:27
+OpenAI API responded with:
+
+{
+  "error": {
+    "message": "This model's maximum context length is 4096 tokens. However, your messages resulted in 6892 tokens. Please reduce the length of the messages.",
+    "type": "invalid_request_error",
+    "param": "messages",
+    "code": "context_length_exceeded"
+  }
+}
+
+
+当前的日期是2023-03-05，当前的时间是19:32:24
+OpenAI API responded with:
+
+{
+  "error": {
+    "message": "This model's maximum context length is 4096 tokens. However, your messages resulted in 4578 tokens. Please reduce the length of the messages.",
+    "type": "invalid_request_error",
+    "param": "messages",
+    "code": "context_length_exceeded"
+  }
+}
+
+
+当前的日期是2023-03-05，当前的时间是19:32:50
+OpenAI API responded with:
+
+{
+  "error": {
+    "message": "This model's maximum context length is 4096 tokens. However, your messages resulted in 4475 tokens. Please reduce the length of the messages.",
+    "type": "invalid_request_error",
+    "param": "messages",
+    "code": "context_length_exceeded"
+  }
+}
+
+
+当前的日期是2023-03-05，当前的时间是19:33:11
+OpenAI API responded with:
+
+{
+    "error": {
+        "message": "Rate limit reached for default-gpt-3.5-turbo in organization org-************************ on requests per min. Limit: 20 / min. Current: 30 / min. Contact support@openai.com if you continue to have issues. Please add a payment method to your account to increase your rate limit. Visit https://platform.openai.com/account/billing to add a payment method.",
+        "type": "requests",
+        "param": null,
+        "code": null
+    }
+}
+
+
+当前的日期是2023-03-05，当前的时间是19:33:49
+{"id":"chatcmpl-6qguSWl3zQWpY1zzJs0oyxUv1LESJ","object":"chat.completion","created":1678016020,"model":"gpt-3.5-turbo-0301","usage":{"prompt_tokens":3830,"completion_tokens":266,"total_tokens":4096},"choices":[{"message":{"role":"assistant","content":"1.1 翻译的性质和类型\n\n问题：翻译的本质是什么？\n\n答案：释义，意义的转换。\n\n问题：在翻译活动中，都涉及到哪些因素？\n\n答案：译者、作者、原文、原文读者、译文、译文读者。\n\n问题：根据文本类型的不同，翻译可分为哪几种类型？\n\n答案：文学翻译、科技翻译和应用文翻译。\n\n问题：人工翻译方式主要有哪几种？\n\n答案：全译、摘译和编译。\n\n1.2 汉英翻译的单位\n\n问题：在汉英翻译中，哪些语言单位可作为翻译单位？\n\n答案：词、短语、句子、段落和篇章。\n\n问题：哪些语言单位较"},"finish_reason":"length","index":0}]}
+
+
+当前的日期是2023-03-05，当前的时间是19:38:09
+{"id":"chatcmpl-6qgyfXplKNTL3hkBqDnypPHqe8hUo","object":"chat.completion","created":1678016281,"model":"gpt-3.5-turbo-0301","usage":{"prompt_tokens":3830,"completion_tokens":266,"total_tokens":4096},"choices":[{"message":{"role":"assistant","content":"1.1 翻译的性质和类型抽认卡：\n\n问题：什么是翻译的本质？\n\n答案：释义，意义的转换。\n\n问题：翻译活动涉及哪些因素？\n\n答案：译者、作者、原文、原文读者、译文、译文读者等。\n\n问题：翻译的类型有哪些？\n\n答案：文学翻译、科技翻译、应用文翻译。\n\n1.2 汉英翻译的单位抽认卡：\n\n问题：汉英翻译最理想的翻译单位是什么？\n\n答案：句子。\n\n问题：为什么句子是理想的翻译单位？\n\n答案：句子在层级上高于词和词组，能够表示一个完整的意思，有语气差异和停顿，随着语义的"},"finish_reason":"length","index":0}]}
+
+
+当前的日期是2023-03-05，当前的时间是19:46:57
+{"id":"chatcmpl-6qh790kR4kJRkxa4UIBFy6kmgDAEx","object":"chat.completion","created":1678016807,"model":"gpt-3.5-turbo-0301","usage":{"prompt_tokens":2131,"completion_tokens":320,"total_tokens":2451},"choices":[{"message":{"role":"assistant","content":"黄龙和刘重德提出了不同的翻译标准。黄龙认为“信、达、雅”需要新的内涵和生命，可以作为文学翻译的标准。刘重德提出了“信、达、切”的翻译标准，包括信于原文内容、具备原文一样的表现力和尽可能切近原文风格。鲁迅、傅雷和钱钟书则提出了更高的翻译标准，其中包括兼顾易解和保存原作的丰姿，以及翻译的最高艺术境界。在西方，流行的标准是等值、等效和功能对等，但有些人认为这些标准仍然有局限性。在学习翻译时，“忠实、通顺”是一种常见的标准，即忠实于原作的内容和风格，同时使译文通俗易懂。现代人们更倾向于将“功能相似、意义相符”作为翻译的标准。"},"finish_reason":"stop","index":0}]}
+
+
+当前的日期是2023-03-05，当前的时间是19:47:37
+{"id":"chatcmpl-6qh7k7uSMT8Y2K4RRdAtESzO09RVq","object":"chat.completion","created":1678016844,"model":"gpt-3.5-turbo-0301","usage":{"prompt_tokens":1608,"completion_tokens":367,"total_tokens":1975},"choices":[{"message":{"role":"assistant","content":"抽认卡1：\n问题：信息功能是指什么？\n答案：传达信息、影响他人认知的功能，也称为所指功能。\n\n抽认卡2：\n问题：什么是表情功能？\n答案：表达言语始发者情感的功能。\n\n抽认卡3：\n问题：人际功能是指什么？\n答案：帮助人确定和保持自己的社会地位的功能，维系和协调人际关系的功能。\n\n抽认卡4：\n问题：拥有呼唤功能的文本类型包括哪些？\n答案：通知、产品使用手册、广告等。\n\n抽认卡5：\n问题：什么是美感功能？\n答案：用语言形式及其传达的内容使感官愉悦的功能。\n\n抽认卡6：\n问题：认知功能指的是什么?\n答案：人必须用语言进行思考，进行分析、综合、抽象、概括等思维活动，形成思想，表达思想。\n\n抽认卡7：\n问题：语言的功能是否可以独立存在？\n答案：不能，语言的功能不能截然分开。\n\n抽认卡8：\n问题：词的两大类意义是什么？\n答案：指称意义和内涵意义。"},"finish_reason":"stop","index":0}]}
+
+
+当前的日期是2023-03-05，当前的时间是21:29:04
+{"id":"chatcmpl-6qihxFlEtc47kWdxigIcK96FkGcHQ","object":"chat.completion","created":1678022933,"model":"gpt-3.5-turbo-0301","usage":{"prompt_tokens":602,"completion_tokens":328,"total_tokens":930},"choices":[{"message":{"role":"assistant","content":"\n\n抽认卡 1：\n问题：新时代是指什么？\n答案：承启后、继往开来、在新的历史条件下继续夺取中国特色社会主义伟大胜利的时代。\n\n抽认卡 2：\n问题：新时代的实践主题是什么？\n答案：决胜全面建成小康社会、进而全面建设社会主义现代化强国的时代。\n\n抽认卡 3：\n问题：新时代的人民性是什么？\n答案：全国各族人民团结奋斗、不断创造美好生活、逐步实现全体人民共同富裕的时代。\n\n抽认卡 4：\n问题：新时代的民族性是什么？\n答案：全体中华儿女勠力同心、奋力实现中华民族伟大复兴中国梦的时代。\n\n抽认卡 5：\n问题：新时代的世界性是什么？\n答案：我国日益走近世界舞台中央、不断为人类作出更大贡献的时代。"},"finish_reason":null,"index":0}]}
+
+
+当前的日期是2023-03-05，当前的时间是21:36:25
+{"id":"chatcmpl-6qip43bdZ5ZLIuoA7emChMxmzqlqa","object":"chat.completion","created":1678023374,"model":"gpt-3.5-turbo-0301","usage":{"prompt_tokens":602,"completion_tokens":340,"total_tokens":942},"choices":[{"message":{"role":"assistant","content":"\n\n抽认卡1：\n\n问题：什么是中国特色社会主义新时代？\n\n答案：从历史脉络看，是承启后、继往开来、在新的历史条件下继续夺取中国特色社会主义伟大胜利的时代；从实践主题看，是决胜全面建成小康社会、进而全面建设社会主义现代化强国的时代。\n\n抽认卡2：\n\n问题：新时代的人民性表现为什么？\n\n答案：新时代是全国各族人民团结奋斗、不断创造美好生活、逐步实现全体人民共同富裕的时代。\n\n抽认卡3：\n\n问题：新时代的民族性表现为什么？\n\n答案：新时代是全体中华儿女勠力同心、奋力实现中华民族伟大复兴中国梦的时代。\n\n抽认卡4：\n\n问题：新时代的世界性表现为什么？\n\n答案：新时代是我国日益走近世界舞台中央、不断为人类作出更大贡献的时代。"},"finish_reason":"stop","index":0}]}
+
+
+当前的日期是2023-03-05，当前的时间是21:39:20
+{"id":"chatcmpl-6qirucG87uKPmkoOAjenXgrSGg35W","object":"chat.completion","created":1678023550,"model":"gpt-3.5-turbo-0301","usage":{"prompt_tokens":602,"completion_tokens":288,"total_tokens":890},"choices":[{"message":{"role":"assistant","content":"抽认卡一：\n\n问题：新时代是指什么？\n答案：承启后、继往开来、在新的历史条件下继续夺取中国特色社会主义伟大胜利的时代。\n\n抽认卡二：\n\n问题：新时代的主题是什么？\n答案：决胜全面建成小康社会、进而全面建设社会主义现代化强国的时代。\n\n抽认卡三：\n\n问题：新时代的特点是什么？\n答案：全国各族人民团结奋斗、不断创造美好生活、逐步实现全体人民共同富裕；全体中华儿女勠力同心、奋力实现中华民族伟大复兴中国梦；我国日益走近世界舞台中央、不断为人类作出更大贡献。\n\n（注意：第三张抽认卡因为内容太多，将其拆分成了三个部分）"},"finish_reason":null,"index":0}]}
+
+
+当前的日期是2023-03-05，当前的时间是21:44:12
+{"id":"chatcmpl-6qiwbbAhMpVnmfe3d6jVQS3tpwSuj","object":"chat.completion","created":1678023841,"model":"gpt-3.5-turbo-0301","usage":{"prompt_tokens":602,"completion_tokens":372,"total_tokens":974},"choices":[{"message":{"role":"assistant","content":"抽认卡 1：\n\n问题：什么是中国特色社会主义新时代？\n\n答案：中国特社会主义新时代，承启后、继往开来、在新的历史条件下继续夺取中国特色社会主义伟大胜利的时代。\n\n抽认卡 2：\n\n问题：新时代的实践主题是什么？\n\n答案：新时代是决胜全面建成小康社会、进而全面建设社会主义现代化强国的时代。\n\n抽认卡 3：\n\n问题：新时代的人民性表现在哪些方面？\n\n答案：新时代是全国各族人民团结奋斗、不断创造美好生活、逐步实现全体人民共同富裕的时代。\n\n抽认卡 4：\n\n问题：新时代的民族性表现在哪些方面？\n\n答案：新时代是全体中华儿女勠力同心、奋力实现中华民族伟大复兴中国梦的时代。\n\n抽认卡 5：\n\n问题：新时代的世界性表现在哪些方面？\n\n答案：新时代是我国日益走近世界舞台中央、不断为人类作出更大贡献的时代。"},"finish_reason":"stop","index":0}]}
+
+
+当前的日期是2023-03-05，当前的时间是21:53:20
+{"id":"chatcmpl-6qj5QLr5pFdMotYSiqaZoHfhfdV0d","object":"chat.completion","created":1678024388,"model":"gpt-3.5-turbo-0301","usage":{"prompt_tokens":602,"completion_tokens":355,"total_tokens":957},"choices":[{"message":{"role":"assistant","content":"抽认卡 1：\n\n问题：新时代是什么？\n\n答案：新时代是中国特色社会主义新时代，是继往开来、在新的历史条件下夺取中国特色社会主义伟大胜利的时代。\n\n抽认卡 2：\n\n问题：新时代的实践主题是什么？\n\n答案：新时代的实践主题是决胜全面建成小康社会、进而全面建设社会主义现代化强国的时代。\n\n抽认卡 3：\n\n问题：新时代的人民性是什么？\n\n答案：新时代是全国各族人民团结奋斗、不断创造美好生活、逐步实现全体人民共同富裕的时代。\n\n抽认卡 4：\n\n问题：新时代的民族性是什么？\n\n答案：新时代是全体中华儿女勠力同心、奋力实现中华民族伟大复兴中国梦的时代。\n\n抽认卡 5：\n\n问题：新时代的世界性是什么？\n\n答案：新时代是我国日益走近世界舞台中央、不断为人类作出更大贡献的时代。"},"finish_reason":"stop","index":0}]}
+
+
+当前的日期是2023-03-05，当前的时间是22:21:56
+{"id":"chatcmpl-6qjX6QgsZMYz0E1vPFnPVpePX7CO6","object":"chat.completion","created":1678026104,"model":"gpt-3.5-turbo-0301","usage":{"prompt_tokens":602,"completion_tokens":381,"total_tokens":983},"choices":[{"message":{"role":"assistant","content":"\n\n卡片1：\n问题：什么是中国特色社会主义新时代？\n答案：中国特社会主义新时代是承启后、继往开来、在新的历史条件下继续夺取中国特色社会主义伟大胜利的时代。\n\n卡片2：\n问题：新时代的实践主题是什么？\n答案：新时代的实践主题是决胜全面建成小康社会、进而全面建设社会主义现代化强国的时代。\n\n卡片3：\n问题：新时代的人民性表现在哪些方面？\n答案：新时代的人民性表现在全国各族人民团结奋斗、不断创造美好生活、逐步实现全体人民共同富裕的时代。\n\n卡片4：\n问题：新时代的民族性表现在哪些方面？\n答案：新时代的民族性表现在全体中华儿女勠力同心、奋力实现中华民族伟大复兴中国梦的时代。\n\n卡片5：\n问题：新时代的世界性表现在哪些方面？\n答案：新时代的世界性表现在我国日益走近世界舞台中央、不断为人类作出更大贡献的时代。"},"finish_reason":"stop","index":0}]}
+
+
+当前的日期是2023-03-05，当前的时间是22:25:16
+{"id":"chatcmpl-6qjaJeAkVQ2Ps0qTrYnAg4qlp8Wct","object":"chat.completion","created":1678026303,"model":"gpt-3.5-turbo-0301","usage":{"prompt_tokens":602,"completion_tokens":384,"total_tokens":986},"choices":[{"message":{"role":"assistant","content":"\n\n抽认卡 1：\n问题：新时代是指什么？\n答案：承启后、继往开来、在新的历史条件下继续夺取中国特色社会主义伟大胜利的时代。 \n\n抽认卡 2：\n问题：新时代的实践主题是什么？\n答案：决胜全面建成小康社会、进而全面建设社会主义现代化强国的时代。 \n\n抽认卡 3：\n问题：新时代意味着什么？\n答案：全国各族人民团结奋斗、不断创造美好生活、逐步实现全体人民共同富裕的时代。 \n\n抽认卡 4：\n问题：全国各族人民在新时代的目标是什么？\n答案：逐步实现全体人民共同富裕。 \n\n抽认卡 5：\n问题：新时代的民族性是什么？\n答案：全体中华儿女勠力同心、奋力实现中华民族伟大复兴中国梦的时代。 \n\n抽认卡 6：\n问题：新时代的世界性意义是什么？\n答案：我国日益走近世界舞台中央、不断为人类作出更大贡献的时代。"},"finish_reason":null,"index":0}]}
+
+
+当前的日期是2023-03-05，当前的时间是22:33:40
+{"id":"chatcmpl-6qjiOcZlJeDcb4TZUrzWTvYWEgX0D","object":"chat.completion","created":1678026804,"model":"gpt-3.5-turbo-0301","usage":{"prompt_tokens":602,"completion_tokens":355,"total_tokens":957},"choices":[{"message":{"role":"assistant","content":"抽认卡 1:\n问题：什么是中国特色社会主义新时代？\n\n答案：中国特社会主义新时代，是在新的历史条件下继续夺取中国特色社会主义伟大胜利的时代。\n\n抽认卡 2:\n问题：新时代的实践主题是什么？\n\n答案：新时代是决胜全面建成小康社会、进而全面建设社会主义现代化强国的时代。\n\n抽认卡 3:\n问题：新时代的人民性表现为什么？\n\n答案：新时代是全国各族人民团结奋斗、不断创造美好生活、逐步实现全体人民共同富裕的时代。\n\n抽认卡 4:\n问题：新时代的民族性表现为什么？\n\n答案：新时代是全体中华儿女勠力同心、奋力实现中华民族伟大复兴中国梦的时代。\n\n抽认卡 5:\n问题：新时代的世界性表现为什么？\n\n答案：新时代是我国日益走近世界舞台中央、不断为人类作出更大贡献的时代。"},"finish_reason":"stop","index":0}]}
