@@ -1,6 +1,6 @@
 import openai
 import datetime
-openai.api_key = "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"
+openai.api_key = ""
 # 输入问题
 context= ''
 for i in range(0, 10):
