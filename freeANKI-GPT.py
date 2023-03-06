@@ -71,4 +71,4 @@ for question_match, answer_match in zip(question_matches, answer_matches):
 df = pd.DataFrame(result, columns=["Question", "Answer"])
 
 # 将数据框写入csv文件，不包含索引或标题行
-df.to_csv("output.csv", index=False, header=True, encoding='utf_8_sig')
+df.to_csv("output.csv", mode='a', index=False, header=False, encoding="utf_8_sig")
