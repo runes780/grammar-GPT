@@ -2,8 +2,12 @@ import requests
 import json
 import openai
 import datetime
+import re
 with open("ANKI-input.txt", "r", encoding="utf-8") as f: # 打开文件
     data = f.read() # 读取所有内容
+data = data.strip() # 去除首尾空格和换行符
+data = data.replace(" ", "") # 去除所有空格
+data = re.sub("\n", "", data) # 去除所有换行符
     
 # 输入问题
 question = data
